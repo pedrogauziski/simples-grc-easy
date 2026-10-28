@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Perfil
+Código do portal: PI19
+Referência CGU/ISO: CGU Perfil PI19
+Agente exibido: Agente CGU — Perfil PI19
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Não
+Resultado de teste: DECLARATÓRIO — NÃO EXIGE EVIDÊNCIA DOCUMENTAL POR SI SÓ
+Pergunta/requisito: Houve reclamação ou denúncia relacionada a direitos do consumidor entre 2023 e 2025?
+Evidência esperada no catálogo do portal: Relatório agregado do canal correspondente e registros de providências, se houve casos; preservar sigilo de denunciantes e dados pessoais.
+Documento demonstrativo: Ficha demonstrativa de Perfil PI19
+Registro simulado: Dado fictício informado: Não. Fonte sugerida para validação real: Relatório agregado do canal correspondente e registros de providências, se houve casos; preservar sigilo de denunciantes e dados pessoais.. A ficha é declaratória e não substitui o cadastro/documento oficial.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. 
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

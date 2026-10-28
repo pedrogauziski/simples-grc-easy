@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Perfil
+Código do portal: PI17.1
+Referência CGU/ISO: CGU Perfil PI17.1
+Agente exibido: Agente CGU — Perfil PI17.1
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: No cenário demonstrativo, a empresa informa: prática/estrutura em avaliação pelo responsável de integridade; confirmar com registro interno antes de usar como resposta.
+Resultado de teste: DECLARATÓRIO — NÃO EXIGE EVIDÊNCIA DOCUMENTAL POR SI SÓ
+Pergunta/requisito: Descreva o plano de transição energética e o acompanhamento de energia.
+Evidência esperada no catálogo do portal: Plano de transição energética e relatórios de consumo, se a empresa declarar sua existência.
+Documento demonstrativo: Ficha demonstrativa de Perfil PI17.1
+Registro simulado: Dado fictício informado: No cenário demonstrativo, a empresa informa: prática/estrutura em avaliação pelo responsável de integridade; confirmar com registro interno antes de usar como resposta.. Fonte sugerida para validação real: Plano de transição energética e relatórios de consumo, se a empresa declarar sua existência.. A ficha é declaratória e não substitui o cadastro/documento oficial.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. 
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

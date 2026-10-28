@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Perfil
+Código do portal: PI16
+Referência CGU/ISO: CGU Perfil PI16
+Agente exibido: Agente CGU — Perfil PI16
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Não
+Resultado de teste: DECLARATÓRIO — NÃO EXIGE EVIDÊNCIA DOCUMENTAL POR SI SÓ
+Pergunta/requisito: Houve prejuízos causados por eventos climáticos nos últimos cinco anos?
+Evidência esperada no catálogo do portal: Registro de perdas por evento climático, somente se ocorreu.
+Documento demonstrativo: Ficha demonstrativa de Perfil PI16
+Registro simulado: Dado fictício informado: Não. Fonte sugerida para validação real: Registro de perdas por evento climático, somente se ocorreu.. A ficha é declaratória e não substitui o cadastro/documento oficial.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. 
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.
