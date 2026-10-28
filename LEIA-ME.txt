@@ -1,0 +1,27 @@
+SIMples GRC — EVIDÊNCIAS MODELO PARA TESTE (07/10/2026)
+
+PACOTE 100% FICTÍCIO. Não representa cliente, empresa real, documento real, avaliação oficial ou evidência de conformidade. Não protocolar nem usar para obter certificação ou reconhecimento.
+
+ESCOPO DO PACOTE
+108 fichas para Perfil; 223 perguntas QPE do formulário de Conformidade (as mesmas perguntas únicas organizadas em Essenciais, itens correlatos ao Pacto e complementos Pró-Ética); 80 itens próprios do catálogo Pacto Brasil do portal; 51 requisitos ISO. Total: 462 PDFs individuais e equivalentes TXT.
+
+A contagem evita duplicar os 223 QPE como se fossem um segundo catálogo: no portal, Conformidade e Pró-Ética compartilham os mesmos QPE, organizados em 10 Essenciais, itens correlatos e complementos. O Pacto Brasil tem 80 itens próprios, alguns com correlação temática a QPE. Correlação não significa equivalência automática.
+
+ORGANIZAÇÃO
+Perfil/; Conformidade_CGU/<trilha>/; Pacto_Brasil_80/; ISO_37301_37001_51/. Cada registro tem .pdf e .txt com o mesmo conteúdo. O TXT é alternativa para testar extração de texto; o PDF é mais próximo de um documento anexável. O índice CSV informa código, agente, referência, resposta de teste, status e caminho.
+
+CENÁRIO
+Horizonte Serviços Digitais Ltda. é inteiramente fictícia. Os dados básicos foram inventados para formar um cenário coerente de PME. CNPJ é deliberadamente inválido; e-mails usam domínio .invalid; nomes pessoais foram omitidos. Para testar respostas, use os valores marcados como demonstrativos.
+
+ESTADOS DE TESTE
+Conformidade e ISO alternam aproximadamente um terço: Sim com controle implementado; Parcial com implantação/lacuna; Não com registro de ausência e plano de ação. Os itens Pacto ligados a QPE reutilizam o estado do QPE correlato para reduzir contradições artificiais. Perfil é declaratório e não recebe nota de atendimento.
+
+COMO TESTAR NO PORTAL
+1. Abra uma cópia limpa do HTML em navegador atualizado e configure uma empresa de demonstração.
+2. Na pergunta, informe a resposta simulada indicada no índice/arquivo.
+3. Em Cofre de evidências, anexe um PDF ou TXT. O portal tenta extrair texto localmente e calcula o hash; vincule o arquivo à pergunta com a página/seção informada (seção 1).
+4. Para usar IA, configure conexão autorizada, confira o aviso de envio e habilite o envio do texto extraído. Rode um item de cada vez. Revise as citações e o resultado.
+5. Não use os resultados simulados como validação de desempenho com dados reais.
+
+LIMITE IMPORTANTE DO PORTAL
+O HTML analisado não guarda os bytes dos arquivos no seu cofre: armazena metadados, hash e texto extraído no navegador. O arquivo original permanece no computador/repositório do usuário. A IA só opera quando conectada/configurada e autorizada. O pacote testa upload, extração e vínculo; não valida provedor, chave, política de retenção, segurança ou desempenho de IA.
