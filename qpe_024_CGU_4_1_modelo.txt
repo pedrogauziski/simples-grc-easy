@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-024
+Referência CGU/ISO: CGU Conformidade 4.1
+Agente exibido: Agente CGU — Conformidade 4.1
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Parcial
+Resultado de teste: PARCIAL — há iniciativa, com lacuna documentada
+Pergunta/requisito: A empresa possui área específica ou pessoa responsável pela aplicação do programa de integridade? Se sim, informar a data em que a área foi instituída ou em que a pessoa responsável foi contratada/designada para a função, o currículo do atual responsável pela instância interna, o processo de seleção do atual responsável pela instância interna, e o órgão competente por sua contratação e eventual demissão.
+Evidência esperada no catálogo do portal: Documentos que comprovem a existência de uma instância interna (seja uma área ou pessoa designada) responsável pela implementação, fiscalização e monitoramento contínuo do programa de integridade no Brasil, tais como: políticas, regimento interno, estatuto, job description etc. Não serão considerados como área específica órgãos colegiados (comitês, conselhos etc.). Inclua também, quando existente, a política ou diretriz interna que formaliza as atribuições e a autonomia da instância responsável pelo programa (além do regimento/estatuto já solicitado).
+Documento demonstrativo: Registro de controle demonstrativo QPE-024
+Registro simulado: No cenário de teste, existe minuta ou prática inicial, mas a implantação ainda é incompleta. O registro cobre apenas parte do escopo ou do período; falta evidência de execução recorrente e/ou aprovação formal. Termos de referência no exemplo: monitoramento, política. Lacuna simulada: completar aprovação, abrangência, registro de execução e acompanhamento, conforme o requisito aplicável.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Essenciais; área: Instância Responsável pelo Programa. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

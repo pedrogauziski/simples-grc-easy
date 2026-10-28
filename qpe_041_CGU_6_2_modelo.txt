@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-041
+Referência CGU/ISO: CGU Conformidade 6.2
+Agente exibido: Agente CGU — Conformidade 6.2
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Não
+Resultado de teste: NÃO — o cenário registra ausência de implementação
+Pergunta/requisito: No período avaliado, a empresa realizou análise de riscos para integridade, incluindo uma análise que contemple expressamente riscos relacionados a corrupção e fraude? (*Medida mínima prevista no art. 14 do Regulamento, de caráter obrigatório)
+Evidência esperada no catálogo do portal: Evidências da análise de riscos para integridade, relacionadas à corrupção e fraude, realizada pela própria empresa ou por terceiros,; POL-06 — Due Diligence de Terceiros Inclua também a política ou diretriz de gestão de riscos de integridade aplicável, quando existente, além da própria análise de riscos.
+Documento demonstrativo: Registro de controle demonstrativo QPE-041
+Registro simulado: No cenário de teste, o controle ainda não está implantado de forma documentada. O diagnóstico interno registra ausência de política aprovada e/ou de evidência de execução no período demonstrativo. Termos de referência no exemplo: terceiros, risco, corrupção, fraude, política. Lacuna simulada: definir responsável e prazo, elaborar/aprovar o controle e guardar evidência de implantação. Não declarar atendimento.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Essenciais; área: Gestão de Riscos para a Integridade. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

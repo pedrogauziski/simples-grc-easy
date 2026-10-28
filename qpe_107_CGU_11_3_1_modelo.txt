@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-107
+Referência CGU/ISO: CGU Conformidade 11.3.1
+Agente exibido: Agente CGU — Conformidade 11.3.1
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Não
+Resultado de teste: NÃO — o cenário registra ausência de implementação
+Pergunta/requisito: No período avaliado, a empresa realizou treinamentos: direcionados a todos os empregados, abordando conteúdo geral do programa de integridade, como Código de Ética, canais de denúncia e política anticorrupção?
+Evidência esperada no catálogo do portal: Listas de presenças acompanhadas de materiais de estudo, links de acesso a treinamentos online ou registros de frequência e participação que demonstrem: o treinamento geral dos colaboradores nos temas fundamentais do programa de integridade (código de ética, canais de denúncia e política anticorrupção);; POL-01 — Código de Ética Inclua também, quando existente, a política ou diretriz de treinamento e capacitação em integridade que rege o conteúdo e a periodicidade das ações formativas.
+Documento demonstrativo: Registro de controle demonstrativo QPE-107
+Registro simulado: No cenário de teste, o controle ainda não está implantado de forma documentada. O diagnóstico interno registra ausência de política aprovada e/ou de evidência de execução no período demonstrativo. Termos de referência no exemplo: treinamento, denúncia, corrupção, política, registros. Lacuna simulada: definir responsável e prazo, elaborar/aprovar o controle e guardar evidência de implantação. Não declarar atendimento.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Essenciais; área: Treinamento e Comunicação. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

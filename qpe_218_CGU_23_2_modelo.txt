@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-218
+Referência CGU/ISO: CGU Conformidade 23.2
+Agente exibido: Agente CGU — Conformidade 23.2
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Não
+Resultado de teste: NÃO — o cenário registra ausência de implementação
+Pergunta/requisito: Existe uma seção específica no site da empresa que reúna as informações sobre o programa de integridade?
+Evidência esperada no catálogo do portal: Informar tanto o link de acesso quanto o caminho da página inicial do site da empresa até a seção específica no site da empresa que reúna as informações sobre o programa de integridade. Inclua também, quando existente, a diretriz ou guia de comunicação institucional que rege o conteúdo publicado sobre o programa de integridade.
+Documento demonstrativo: Registro de controle demonstrativo QPE-218
+Registro simulado: No cenário de teste, o controle ainda não está implantado de forma documentada. O diagnóstico interno registra ausência de política aprovada e/ou de evidência de execução no período demonstrativo. Termos de referência no exemplo: comunicação. Lacuna simulada: definir responsável e prazo, elaborar/aprovar o controle e guardar evidência de implantação. Não declarar atendimento.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Essenciais; área: Transparência e Responsabilidade Socioambiental. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

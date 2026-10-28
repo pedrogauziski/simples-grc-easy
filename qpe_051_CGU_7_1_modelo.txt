@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-051
+Referência CGU/ISO: CGU Conformidade 7.1
+Agente exibido: Agente CGU — Conformidade 7.1
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Sim
+Resultado de teste: SIM — controle implementado no cenário demonstrativo
+Pergunta/requisito: A empresa possui Código de Ética e Conduta, ou documento equivalente, disponível em português? (Medida mínima prevista no art. 14 do Regulamento, de caráter obrigatório)
+Evidência esperada no catálogo do portal: Código de Ética, ou documento equivalente, em língua portuguesa.; POL-01 — Código de Ética Inclua também eventuais diretrizes ou guias complementares ao Código de Ética (ex.: guia de aplicação, FAQ interno), quando existentes.
+Documento demonstrativo: Registro de controle demonstrativo QPE-051
+Registro simulado: No cenário de teste, a prática foi formalizada e está implantada. O registro de execução demonstra aplicação no período, com responsável, data e amostra identificada. Termos de referência: controle, execução, responsável e período. Não foi identificada lacuna no exemplo simulado; a suficiência real dependeria de conferir o documento original e o escopo.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Essenciais; área: Código de Ética, Políticas e Procedimentos. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.
