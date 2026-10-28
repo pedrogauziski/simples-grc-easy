@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-222
+Referência CGU/ISO: CGU Conformidade 24.4
+Agente exibido: Agente CGU — Conformidade 24.4
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Sim
+Resultado de teste: SIM — controle implementado no cenário demonstrativo
+Pergunta/requisito: A empresa participa de iniciativas coletivas ou divulga ao público externo ações que promovam a proteção dos direitos humanos?
+Evidência esperada no catálogo do portal: Divulgações voltadas ao público externo, promovendo a proteção dos direitos humanos. Isso inclui artigos em jornais, entrevistas, comunicados, e-mails, mensagens no site da empresa e em mídias sociais. Link da internet e/ou documento de adesão à ação coletiva assinado pela instituição promotora e pela empresa, em que conste a associação da empresa com ações coletivas voltadas à proteção dos direitos humanos.
+Documento demonstrativo: Registro de controle demonstrativo QPE-222
+Registro simulado: No cenário de teste, a prática foi formalizada e está implantada. O registro de execução demonstra aplicação no período, com responsável, data e amostra identificada. Termos de referência: controle, execução, responsável e período. Não foi identificada lacuna no exemplo simulado; a suficiência real dependeria de conferir o documento original e o escopo.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Pacto Brasil; área: Transparência e Responsabilidade Socioambiental. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.

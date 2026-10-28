@@ -1,0 +1,16 @@
+AMOSTRA FICTÍCIA PARA TESTE — NÃO É DOCUMENTO EMPRESARIAL REAL
+Categoria: Conformidade
+Código do portal: QPE-223
+Referência CGU/ISO: CGU Conformidade 24.5
+Agente exibido: Agente CGU — Conformidade 24.5
+Empresa do cenário: Horizonte Serviços Digitais Ltda. (empresa inteiramente fictícia)
+Período: 01/01/2025 a 31/12/2025 — período demonstrativo
+Responsável: Responsável de Integridade (cargo fictício)
+Resposta simulada: Parcial
+Resultado de teste: PARCIAL — há iniciativa, com lacuna documentada
+Pergunta/requisito: A empresa participa de iniciativas coletivas ou divulga ao público externo ações que promovam o desenvolvimento sustentável, a preservação do meio ambiente e a mitigação ou adaptação às mudanças climáticas?
+Evidência esperada no catálogo do portal: Divulgações voltadas ao público externo, promovendo a proteção ao meio ambiente, ações de desenvolvimento sustentável e o combate às mudanças climáticas. Isso inclui artigos em jornais, entrevistas, comunicados, e-mails, mensagens no site da empresa e em mídias sociais. Link da internet e/ou documento de adesão à ação coletiva assinado pela instituição promotora e pela empresa, em que conste a associação da empresa com ações coletivas voltadas à proteção ao meio ambiente, a ações de desenvolvimento sustentável e de combate às mudanças climáticas.
+Documento demonstrativo: Registro de controle demonstrativo QPE-223
+Registro simulado: No cenário de teste, existe minuta ou prática inicial, mas a implantação ainda é incompleta. O registro cobre apenas parte do escopo ou do período; falta evidência de execução recorrente e/ou aprovação formal. Termos de referência: controle, execução, responsável e período. Lacuna simulada: completar aprovação, abrangência, registro de execução e acompanhamento, conforme o requisito aplicável.
+Localizador: documento fictício de teste, seção 1; não há fonte empresarial real. Trilha interna do portal: Pacto Brasil; área: Transparência e Responsabilidade Socioambiental. Correlação temática não significa equivalência integral.
+Limite: este arquivo testa anexação e leitura de texto. Não comprova prática, conformidade, admissibilidade, certificação ISO ou aprovação da CGU. Substitua-o por evidência autêntica, autorizada e vigente para qualquer avaliação real.
