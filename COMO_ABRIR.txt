@@ -1,0 +1,17 @@
+SIMPLES GRC · PORTAL 19/10/2026 (completo, com evidências)
+
+1. Extraia o ZIP inteiro (botão direito > Extrair tudo).
+2. Abra a pasta extraída e clique com o botão direito em index.html > Abrir com > Google Chrome ou Microsoft Edge.
+3. Não abra de dentro da pasta compactada nem por prévia de aplicativo.
+
+Conteúdo:
+- index.html ............ portal (funciona offline; os 462 modelos de evidência já vão embutidos nele)
+- evidencias/ ........... Evidencias_Modelo_Simples_GRC (462 itens, cenário Horizonte, usado pelo portal) e
+                          "evidencias - Aurora - Portal" (cenário Aurora, separado; não misturar com Horizonte)
+- catalogos_e_matrizes/ . CSVs de agentes, conformidade, riscos, matriz cruzada e matriz CGU
+- documentos/ ........... manuais, roteiro Power BI e Documento Orientativo Pró-Ética CGU 2025-2026
+- modelos_e_dados/ ...... planilha do portal e painel Power BI (.pbix)
+
+Mudança desta versão: a tela inicial volta a mostrar "Comece por aqui" logo após a mensagem para PME, e o menu
+mostra o Roadmap antes de "Gestão PME". Nenhuma função foi removida.
+Os dados do portal são fictícios (empresa Horizonte). Ferramenta de preparação; não é avaliação ou homologação da CGU.
